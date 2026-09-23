@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "7f96a362547bc9d07122bf34",
+  "owner": "xhmnytmhh",
+  "repo": "page-a224b528fe16091c9eaeb9b1",
+  "title": "桥头堡",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a224b528fe16091c9eaeb9b1",
+      "a": "桥头堡",
+      "b": "稳定全球clash加速器",
+      "entity": "桥头堡",
+      "brand": "桥头堡",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "9e4016b97db75ce9598b813585b1f85f0ce90d5949d8431dbedf3c3a4f322494",
+      "content": {
+        "primary_entity": "桥头堡",
+        "keyword1": "桥头堡",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "不同设备适合的客户端不同，先看系统再决定下载哪个。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "按设备选好客户端，导入订阅就能用。",
+          "AI_CLOSING_TITLE": "开始配置",
+          "AI_DESCRIPTION": "，桥头堡提供基础版、旗舰版和团队版三档套餐，分别对应 3 台、5 台和 20 台设备同时在线，流量从每月 100GB 到 1000GB。旗舰版含 IPLC 专线，团队版支持企业定制路由。",
+          "AI_FEATURES_INTRO": "围绕设备数量、流量和订阅周期整理三个要点。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "按常用设备数决定套餐，基础版 3 台，旗舰版 5 台，团队版 20 台。",
+          "AI_FEATURE_TEXT_2": "每月流量从 100GB 到 1000GB，重度流媒体和游戏选旗舰版以上。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省，基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850。",
+          "AI_FEATURE_TITLE_1": "按设备选档",
+          "AI_FEATURE_TITLE_2": "看流量需求",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "从选套餐到客户端配置，三步完成。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "桥头堡提供多档海外加速套餐，覆盖个人到团队场景，客户端订阅配置简单，按设备数量和流量需求选择即可。",
+          "AI_HERO_SUBTITLE": "多档套餐，按设备选",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "IPLC 专线可选，游戏更稳",
+          "AI_HIGHLIGHT_3": "年付省两个月费用",
+          "AI_PLANS_INTRO": "三档套餐在设备数、流量和节点权限上不同，按需对比。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量和常用场景，在基础版、旗舰版、团队版中选择一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备数、流量额度和节点类型是否满足需求。",
+          "AI_STEP_TEXT_3": "按对应客户端的订阅导入文档完成配置，开始使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "桥头堡多档加速套餐",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB，支持 3 台设备；旗舰版每月 300GB，支持 5 台；团队版每月 1000GB，支持 20 台。按设备数量与月流量选择即可，重度使用建议旗舰版或团队版。",
+          "AI_FAQ_ANSWER_2": "支持按年付费，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。年付相对月付更省，适合确定长期使用的用户。",
+          "AI_FAQ_ANSWER_3": "可以。同一订阅可在多台设备上配置，具体同时在线数量取决于所选套餐：基础版 3 台、旗舰版 5 台、团队版 20 台。",
+          "AI_FAQ_ANSWER_4": "在所选客户端中新建订阅，粘贴服务提供的订阅地址后更新节点。不同客户端导入方式略有差异，参照对应客户端文档操作即可。",
+          "AI_FAQ_ANSWER_5": "可以。旗舰版包含 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点，适合对延迟与带宽要求较高的场景，实际体验受本地网络与节点状态影响。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "三档套餐在流量和设备数量上有什么区别？",
+          "AI_FAQ_QUESTION_2": "是否支持按年付费，年付价格是多少？",
+          "AI_FAQ_QUESTION_3": "一个订阅能否在多台设备上同时使用？",
+          "AI_FAQ_QUESTION_4": "订阅地址该如何导入客户端？",
+          "AI_FAQ_QUESTION_5": "游戏和流媒体场景适合选哪个套餐？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--mes358aniao7go06a.com",
+    "host": "xn--mes358aniao7go06a.com"
+  },
+  "file_hashes": {
+    "index.html": "e7c672576105d342724b051c182d010bd140ad7938dd563173508aa56eb4f7ea",
+    "sitemap.xml": "1ea6b662d4e9f2c06519a6d052778d0cbeb146084e238888449e84ad398a8f5c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "970678be11be4815931bc5eab37565b8aea591ca26f060978a3a7cb04e3b9462",
+    "robots.txt": "8152ebc42856ff56d2791130b70465a1d642ef54cc9e76214dc56583ff3a3212",
+    "8cb4ed7f34941dbe34c0bb10b26b310a.txt": "ec66742913f6a47caad58253f005138abc9ab25c418b369b6cac7ab3e5bcdd3d"
+  },
+  "revision": "70cf33892ad732ee25d5f87980f3cbe8f691b67eb6dbf6393dd683e5139104c7"
+}
